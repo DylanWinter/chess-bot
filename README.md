@@ -1,4 +1,4 @@
-## A chess engine written in TypeScript.
+# A chess engine written in TypeScript.
 
 It uses Minimax with:
 - Alpha-beta pruning.
@@ -8,7 +8,7 @@ It uses Minimax with:
 ## Todo
 - Improve evaluation function using priority maps i.e. encourage knights and pawns to control the center, encourage kings to remain on the back rank.
 
-### Credit
+## Credit
 
 [Chess.js](https://www.npmjs.com/package/chess.js/v/0.13.0?activeTab=readme) is used for the game state.
 
