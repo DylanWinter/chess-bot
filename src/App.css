@@ -1,0 +1,11 @@
+#root {
+  margin: auto;
+}
+
+.chessboard-container {
+  width: 500px;
+  height: 500px;
+  aspect-ratio: 1;
+  align-content: center;
+
+}
